@@ -10,7 +10,7 @@
 
 ---
 
-### 🛡️ Core Expertise (Synced with Portfolio)
+### 🛡️ Core Expertise
 
 | **AI Engineering** | **Infrastructure & Dev** | **Backend & Automation** |
 | :--- | :--- | :--- |
